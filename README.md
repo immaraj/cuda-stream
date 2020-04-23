@@ -35,6 +35,3 @@ Built from Code written at the following website
 Usage
 -----
 AT the Unix command line type ./cuda-stream
-
-Drivers, compiler and software applicable to whichever implementation you would like to build against is required.
-
