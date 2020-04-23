@@ -6,18 +6,6 @@ This benchmark is similar in spirit, and based on, the STREAM benchmark [1] for 
 
 Unlike other GPU memory bandwidth benchmarks this does *not* include the PCIe transfer time.
 
-There are multiple implementations of this benchmark in a variety of programming models.
-Currently implemented are:
-  - OpenCL
-  - CUDA
-  - OpenACC
-  - OpenMP 3 and 4.5
-  - Kokkos
-  - RAJA
-  - SYCL
-
-This code was previously called GPU-STREAM.
-
 Website
 -------
 [uob-hpc.github.io/BabelStream/](https://uob-hpc.github.io/BabelStream/)
